@@ -1,4 +1,7 @@
-# TWRP device tree for LYF F90M
+# Device tree for LYF F90M
+Device tree for LYF-F90M from n00btree, re-modify for Philz Recovery
+
+
 
 ## About Device
 
@@ -8,7 +11,7 @@
 
 Component Type | Details
 -------:|:-------------------------
-CPU     | Dual core msm8909
+CPU     | Dual core msm8905
 GPU     | -
 Memory  | 512MB
 Shipped OS Version | 	KaiOS 0217
@@ -20,7 +23,6 @@ Secondary Camera | 0.3 MP
 
 ---
 
-This device tree can be used to build twrp for LYF F90M
 
 
 ## Build Instructions
